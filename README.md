@@ -5,7 +5,8 @@ Uno tournament rules(not yet implemented, ignore for now) - http://www.tournamen
 
 To play as player:
 Choose the integer value assigned to each move, not the number affiliated with the card
-EX: ======== Actions You Can Choose =========
+EX: 
+======== Actions You Can Choose =========
 0: 9, 1: 6, 2: 4
 Choose 0, 1, or 2
 
